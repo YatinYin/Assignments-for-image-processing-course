@@ -9,6 +9,7 @@
 ## 作业2
 
 阅读何凯明的基于暗通道先验的图像去雾论文，并用matlab或python复现其中去雾算法。
+
 要求：1.复现算法，并使用一些带雾图片，检验复现的效果。
 
 > K. He, J. Sun and X. Tang, "Single Image Haze Removal Using Dark Channel Prior," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 33, no. 12, pp. 2341-2353, Dec. 2011, doi: 10.1109/TPAMI.2010.168.
